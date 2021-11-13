@@ -1,0 +1,38 @@
+img{
+  width:500px;
+}
+body{
+  text-align:center;
+  border:solid;
+  padding:30px;
+  background:linear-gradient(#F44336  , #D32F2F);
+}
+h1{
+  text-shadow:2px 2px #0277BD;
+}
+p{
+  font-size:25px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black
+    color: black
+}
+.items{
+    color: white;
+    font-size: 25px;
+    padding: 5px 9px;
+    display: inline;
+    }
+.items:hover{
+    background-color: #06c49b;
+    font-size: 30px;
+}
+#name{
+    font-family: 'Stick No Bills', sans-serif;
+}
